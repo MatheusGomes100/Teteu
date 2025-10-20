@@ -1,40 +1,45 @@
-# Olá, sou o Matheus Santos Gomes! 👋
+# Matheus Santos Gomes 👨‍💻 | Estudante & Desenvolvedor em Formação
 
-### 🎓 Estudante de Téc. em Informática para Internet
+### 🚀 A jornada começa no IFSP - Campus Capivari
 
-Atualmente cursando o 1º ano do Ensino Médio Técnico Integrado no **IFSP - Campus Capivari**.
+Estudante do Ensino Médio Técnico Integrado (TII), onde estou construindo a base técnica em programação e web, aliada a um foco forte em habilidades de gestão de projetos. Meu objetivo é transformar a lógica aprendida em C em soluções reais na web.
 
-Minha formação une o conhecimento técnico de desenvolvimento web com uma base sólida em programação e soft skills essenciais.
+***
 
----
+## 🛠️ Stack Principal (O que estou construindo hoje)
 
-### 💻 Conhecimentos Técnicos
-
-| Linguagem | Status | Foco |
+| Linguagem | Nível | Onde estou aplicando |
 | :--- | :--- | :--- |
-| **HTML5 & CSS3** | Avançado | Websites responsivos e estruturados. |
-| **Linguagem C** | Sólido | Lógica de Programação e Estrutura de Dados. |
-| **Java** | Básico | Próximo passo no aprendizado. |
+| **HTML5 & CSS3** | Avançado 🌟 | Estruturação semântica e layouts responsivos. |
+| **Linguagem C** | Sólido ✅ | Algoritmos eficientes e fundamentos de lógica. |
+| **Java** | Iniciando 🚧 | Próximo passo para backend e aplicações mais robustas. |
 
-### ⭐ Habilidades Comportamentais
+***
 
-Conforme destacado no currículo, possuo foco em:
-- **Liderança e Organização:** Atuo como mediador e organizador em projetos de grupo.
-- **Foco e Disciplina:** Notáveis na execução de tarefas e cumprimento de prazos.
-- **Proatividade:** Sempre buscando soluções e aprimoramento contínuo.
+## 🧠 Habilidades que me Movem
 
-### 🚀 Projetos em Destaque (Acadêmicos)
+Minhas *soft skills* são o motor para o aprendizado e trabalho em equipe:
 
-- **Sistema de Gestão Escolar (C):** Desenvolvimento de um CRUD simples.
-- **Website Pessoal (HTML/CSS):** Criação de um website utilizando boas práticas de marcação.
+* **Liderança Natural:** Gosto de atuar como mediador e organizador de grupos, garantindo que o projeto siga o ritmo.
+* **Disciplina e Foco:** Essenciais para absorver o conteúdo técnico complexo do IFSP e entregar tarefas com qualidade.
+* **Proatividade:** Sempre em busca de como melhorar o código ou o processo, sem esperar que peçam.
 
----
+***
 
-### 🎯 Objetivo
+## 💡 Projetos de Base (Em Desenvolvimento)
 
-Busco ativamente a primeira oportunidade de estágio ou Jovem Aprendiz para aplicar o conhecimento adquirido no IFSP e crescer na área de desenvolvimento.
+| Título do Projeto | Foco Técnico |
+| :--- | :--- |
+| **CRUD em C** | Lógica de programação e manipulação básica de dados. |
+| **Meu Web Portfólio** | Aplicando as melhores práticas de HTML5 e CSS3 (Layout e Semântica). |
 
-### 📬 Conecte-se Comigo
+***
 
-| **E-mail:** [msamtosgomes42@gmail.com](mailto:msamtosgomes42@gmail.com)
-| **GitHub:** [github.com/MatheusGomes100](https://github.com/MatheusGomes100)
+### 🎯 O Próximo Nível
+
+Estou pronto e ansioso para o meu primeiro **Estágio** ou posição de **Jovem Aprendiz** para testar essas habilidades no mundo real.
+
+### 📧 Contato Rápido
+
+* **E-mail:** [msamtosgomes42@gmail.com](mailto:msamtosgomes42@gmail.com)
+* **GitHub:** [github.com/MatheusGomes100](https://github.com/MatheusGomes100)
